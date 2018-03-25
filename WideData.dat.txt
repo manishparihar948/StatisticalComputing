@@ -1,0 +1,7 @@
+ID Group Responsel Response2 Response3 
+AA 0     15.4      9.7       6.2 
+AB 1     17.6      13.7      12.1
+AC 0     10.9      9.6       7.0
+AD 0     12.1      11.8      9.3
+AE 1     11.5      8.8       8.9
+AF 1     18.4      14.2      10.5
